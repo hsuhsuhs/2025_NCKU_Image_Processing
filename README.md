@@ -28,7 +28,7 @@ The goal is to understand how low-level image operations work and how they affec
 - Fourier Transform-based filtering
 
 -> Removes noise from input images  
--> Demonstrates spatial vs frequency domain filtering :contentReference[oaicite:0]{index=0}
+-> Demonstrates spatial vs frequency domain filtering 
 
 ---
 
@@ -37,7 +37,7 @@ The goal is to understand how low-level image operations work and how they affec
 - Fourier Transform sharpening
 
 -> Enhances edges and details  
--> Highlights high-frequency components :contentReference[oaicite:1]{index=1}
+-> Highlights high-frequency components 
 
 ---
 
@@ -45,7 +45,7 @@ The goal is to understand how low-level image operations work and how they affec
 - Custom 5×5 Gaussian kernel
 
 -> Smooths image while preserving structure  
--> Demonstrates convolution-based filtering :contentReference[oaicite:2]{index=2}
+-> Demonstrates convolution-based filtering 
 
 ---
 
@@ -53,7 +53,7 @@ The goal is to understand how low-level image operations work and how they affec
 - Frequency-domain filtering
 
 -> Removes high-frequency noise  
--> Produces blurred/smoothed output :contentReference[oaicite:3]{index=3}
+-> Produces blurred/smoothed output
 
 ---
 
@@ -71,7 +71,7 @@ The GUI is implemented using:
 - Python
 - OpenCV
 - PyQt5
-- Matplotlib :contentReference[oaicite:4]{index=4}
+- Matplotlib 
 
 ---
 
@@ -92,7 +92,7 @@ Each MRI image is segmented into **three classes**:
 
 - CT (Carpal Tunnel)
 - FT (Flexor Tendons)
-- MN (Median Nerve) :contentReference[oaicite:5]{index=5}
+- MN (Median Nerve) 
 
 ---
 
@@ -102,7 +102,7 @@ Each MRI image is segmented into **three classes**:
 - Each set includes:
   - T1-weighted image
   - T2-weighted image
-  - Ground truth segmentation mask :contentReference[oaicite:6]{index=6}
+  - Ground truth segmentation mask
 
 ---
 
@@ -139,8 +139,7 @@ A GUI is implemented to visualize segmentation results.
 - Switch between T1 / T2 images
 - Display segmentation results
 - Overlay predicted mask vs ground truth
-- Compute Dice score in real time :contentReference[oaicite:8]{index=8}
-
+- Compute Dice score in real time 
 ---
 
 
