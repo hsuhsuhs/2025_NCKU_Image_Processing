@@ -1,0 +1,3 @@
+([('main',
+   '/Users/hsuhsiaofan/Desktop/VS2025_P76141267/dist/main',
+   'EXECUTABLE')],)
