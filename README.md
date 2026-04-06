@@ -4,8 +4,8 @@ This repository contains coursework implementations for the **Image Processing**
 
 The repository includes two main assignments:
 
-- **IP_hw1**: Fundamental Image Processing Techniques with GUI Implementation
-- **IP_hw2**: Medical Image Segmentation (MRI-based Muscle Segmentation)
+- [**IP_hw1**](https://github.com/hsuhsuhs/2025_NCKU_Image_Processing/tree/main/IP_hw1): Fundamental Image Processing Techniques with GUI Implementation
+- [**IP_hw2**]:(https://github.com/hsuhsuhs/2025_NCKU_Image_Processing/tree/main/IP_hw1) Medical Image Segmentation (MRI-based Muscle Segmentation)
 
 ---
 
